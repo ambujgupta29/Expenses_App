@@ -1,16 +1,16 @@
 # personal_expense_app
 
-A new Flutter application.
+![pe1](https://user-images.githubusercontent.com/64744382/123954323-e513d900-d9c5-11eb-96ff-ba95b131725e.jpeg)
+![pe2](https://user-images.githubusercontent.com/64744382/123954322-e513d900-d9c5-11eb-9151-d6c692b978fd.jpeg)
+![pe3](https://user-images.githubusercontent.com/64744382/123954343-e8a76000-d9c5-11eb-96e3-0b03031e5c05.jpeg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This App is to manage your personal expenses daily.
+Gives you visual representation in form of charts about your expenditure.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
